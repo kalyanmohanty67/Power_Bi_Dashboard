@@ -1,4 +1,4 @@
-# codealpha_tasks
+# CodeAlpha_Tasks
 ## Financial Health Dashboard
 An interactive Power BI dashboard that analyzes an organization's financial health using raw CSV data. This project provides real-time insights into financial performance, helping small and medium enterprises (SMEs) make data-driven decisions regarding budgeting, cash flow, and profitability.
 
